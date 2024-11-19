@@ -1,2 +1,2 @@
 # translationbot
-Discord translation BOT using DeepL API
+Discordの特定のチャンネルを監視して、日韓相互通訳を行うBOT
